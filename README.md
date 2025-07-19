@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NEXT.JS And Postgresql**
 
-- 📫 How to reach me **vinitinamkekse@gmail.com**
+- 📫 How to reach me **vinit@konma.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
