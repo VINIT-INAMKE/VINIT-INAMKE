@@ -1,67 +1,119 @@
-<h1 align="center">Hi 👋, I'm Vinit Inamke</h1>
-<h3 align="center">WEB3 & Socio-Technical Architect @ KONMA.ORG</h3>
-<p align="center">Cardano Developer • Full Stack Engineer • Functional Programming Enthusiast</p>
+<h3 align="center">Vinit Inamke</h3>
+<p align="center"><b>CTO @ KONMA.ORG</b></p>
 
----
-
-### 👨‍💻 About Me
-
-- 🧱 Web3 & Socio-Technical Architect at **[KONMA.ORG](https://konma.io/)**  
-- 💼 Completed:
-  - ✅ **On-Premise AI-Powered Collaboration Workspace**
-  - ✅ **Cardano-Based Learning Management System** ([Live Preview](https://web3lmsfrontendcardano.vercel.app/))  
-- 🧠 Skilled in **Next.js**, **PostgreSQL**, **Django**, **MERN Stack**, and **Supabase**  
-- 🔗 Proficient Cardano Developer: **Haskell**, **Plutus**, **Marlowe**  
-- 🚀 Currently exploring **React Native** for cross-platform mobile development  
-- 🎓 Computer Engineering Graduate | Functional Programming Practitioner  
-- 📫 Reach me at **vinit@konma.com**
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="mailto:vinit@konma.com"><img src="https://img.shields.io/badge/Email-vinit@konma.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://ko-fi.com/starlord2204" target="_blank"><img src="https://img.shields.io/badge/Support%20Me-Ko--fi-ff5f5f?style=flat-square&logo=ko-fi"></a>
+<p align="center">
+  <a href="https://konma.io/"><img src="https://img.shields.io/badge/KONMA.ORG-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
+  <a href="mailto:vinit@konma.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://ko-fi.com/starlord2204"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+I write Haskell for a living and I chose this on purpose.
 
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-</p>
+AI writes most of my code now. But not in the "vibe coding" way in the "years of writing code by hand is exactly what lets me tell a machine what to build" way. I'm still the architect. Both hands on the wheel. I just don't need to type every line myself anymore. The job was never typing. The job was thinking.
+
+I build on Cardano smart contract tooling, on-chain applications, and the infrastructure around them. Started with full stack web dev, discovered functional programming, and now I'm deep in Haskell and UPLC codegen. The pipeline keeps getting lower-level and I keep enjoying it more. Send help. Or don't. I have monads.
 
 ---
 
-### 📢 Support My Work
+### Now
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[KONMA.ORG](https://konma.io/)**
+CTO - Web3 infrastructure and tooling
+
+**[HaskLedger](https://github.com/KonmaORG/HaskLedger)**
+Haskell eDSL → Covenant IR → UPLC → `.plutus`
+247 tests. Zero patience for broken abstraction layers.
+
+</td>
+<td width="50%" valign="top">
+
+**[Cardano LMS](https://web3lmsfrontendcardano.vercel.app/)**
+Shipped - Cardano-based Learning Management System
+
+**AI Workspace**
+Shipped - On-premise AI collaboration platform
+
+</td>
+</tr>
+</table>
+
+---
+
+### How I Pick Tools
+
+The problem decides the stack, not the hype cycle. AI included.
+
+**Smart contracts need correctness guarantees** → AI helps me write it faster. I still decide what gets written.
+
+**Web apps need to ship** → AI handles the boilerplate. I handle the architecture.
+
+**Infrastructure needs to be boring** → No amount of AI fixes bad infrastructure decisions.
+
+<br>
+
+**Blockchain & Smart Contracts**
 
 <p>
-  <a href="https://ko-fi.com/starlord2204" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="starlord2204" />
-  </a>
+  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plutus-003B70?style=for-the-badge&logo=cardano&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UPLC-0033AD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Covenant_IR-1a1a2e?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cardano_CLI-0033AD?style=for-the-badge&logo=cardano&logoColor=white"/>
+</p>
+
+**Backend**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
+
+**Infra & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=nixos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GHC_9.12-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VINIT-INAMKE&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="55%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VINIT-INAMKE&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9" width="90%"/>
+</p>
+
+---
+
+<p align="center">
+
+> *"It compiles. Ship it."*
+> - Me, mass deploying lazy evaluated thunks onto a blockchain, supervised by a human, executed by a machine
+
 </p>
