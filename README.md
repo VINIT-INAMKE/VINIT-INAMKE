@@ -27,8 +27,8 @@ I build on Cardano smart contract tooling, on-chain applications, and the infras
 CTO - Web3 infrastructure and tooling
 
 **[HaskLedger](https://github.com/KonmaORG/HaskLedger)**
-Haskell eDSL → Covenant IR → UPLC → `.plutus`
-247 tests. Zero patience for broken abstraction layers.
+Haskell eDSL → Covenant IR → C2UPLC → `.plutus`
+Zero patience for broken abstraction layers.
 
 </td>
 <td width="50%" valign="top">
