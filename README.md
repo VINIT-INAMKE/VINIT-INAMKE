@@ -114,6 +114,14 @@ The problem decides the stack, not the hype cycle. AI included.
 <p align="center">
 
 > *"It compiles. Ship it."*
-> - Me, mass deploying lazy evaluated thunks onto a blockchain, supervised by a human, executed by a machine
+</p>
+
+<p align="center">
+
+> यदा यदा हि धर्मस्य ग्लानिर्भवति भारत | अभ्युत्थानं धर्मस्य तदात्मानं सृजाम्यहम् || <br>
+> *Whenever righteousness declines and unrighteousness prevails, I manifest myself.*
+
+> परित्राणाय साधूनां विनाशाय च दुष्कृताम् | धर्मसंस्थापनार्थाय संभवामि युगे युगे || <br>
+> *To protect the good, to destroy the wicked, and to establish dharma, I appear age after age.*
 
 </p>
