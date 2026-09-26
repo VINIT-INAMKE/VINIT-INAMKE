@@ -26,8 +26,9 @@ I build on Cardano smart contract tooling, on-chain applications, and the infras
 **[KONMA.ORG](https://konma.io/)**
 CTO - Web3 infrastructure and tooling
 
-**[HaskLedger](https://github.com/KonmaORG/HaskLedger)**
+**[HaskLedger](https://github.com/KonmaORG/HaskLedger)** · [v1.0.0 is out](https://github.com/KonmaORG/HaskLedger/releases/tag/v1.0.0)
 Haskell eDSL → Covenant IR → C2UPLC → `.plutus`
+13 contracts tested on the Preview testnet. Scripts 8 to 16x smaller than the same contracts in PlutusTx.
 Zero patience for broken abstraction layers.
 
 </td>
