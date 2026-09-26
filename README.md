@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://konma.io/"><img src="https://img.shields.io/badge/KONMA.ORG-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
-  <a href="mailto:vinit@konma.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:vinit@konma.io"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://ko-fi.com/starlord2204"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 </p>
 
