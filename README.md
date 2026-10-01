@@ -1,5 +1,5 @@
 <h3 align="center">Vinit Inamke</h3>
-<p align="center"><b>CTO @ KONMA.ORG</b></p>
+<p align="center"><b>Tech Lead @ KONMA LABZ</b></p>
 
 <p align="center">
   <a href="https://konma.io/"><img src="https://img.shields.io/badge/KONMA.ORG-000000?style=for-the-badge&logo=safari&logoColor=white"></a>
@@ -24,7 +24,7 @@ I build on Cardano smart contract tooling, on-chain applications, and the infras
 <td width="50%" valign="top">
 
 **[KONMA.ORG](https://konma.io/)**
-CTO - Web3 infrastructure and tooling
+Tech Lead - Web3 infrastructure and tooling
 
 **[HaskLedger](https://github.com/KonmaORG/HaskLedger)** · [v1.0.0 is out](https://github.com/KonmaORG/HaskLedger/releases/tag/v1.0.0)
 Haskell eDSL → Covenant IR → C2UPLC → `.plutus`
